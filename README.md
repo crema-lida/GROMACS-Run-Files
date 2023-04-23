@@ -6,6 +6,8 @@ Common Files
 - `run.sh` is a bash script for conducting the full simulation. It builds the initial configuration and the simulation box, do energy minimization and then run NVT/NPT simulations. You might want to modify `.mdp` files before running this script.
 - `xvgplot.ipynb` is a python script for plotting `.edr` files generated during simulation.
 
+**NOTE** that you may need to download the force field files in the `top/` directory and include them correctly in `topol.top`.
+
 Software and Online Services used in simulations
 ---
 **GROMACS** is a free and open-source software suite for high-performance molecular dynamics and output analysis.
