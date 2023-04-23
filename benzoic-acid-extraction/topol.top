@@ -1,4 +1,4 @@
-#include "/home/crema/gromacs/top/oplsaam.ff/forcefield.itp"
+#include "../top/oplsaam.ff/forcefield.itp"
 #include "spce.itp"
 #include "benzoic_acid.itp"
 #include "iso-C24.itp"
