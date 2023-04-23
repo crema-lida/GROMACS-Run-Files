@@ -1,0 +1,13 @@
+tolerance 2.0
+filetype pdb
+output conf.pdb
+
+structure peg.pdb
+  number 1
+  inside box 0 0 0 80 80 80
+end structure
+
+structure b-CD.pdb
+  number 3
+  inside box 0 0 0 80 80 80
+end structure
