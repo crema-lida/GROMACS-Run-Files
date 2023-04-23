@@ -1,0 +1,25 @@
+HEADER    PROTEIN                                 14-APR-23   NONE
+TITLE     NULL                                                        
+COMPND    NULL                                                        
+SOURCE    NULL                                                        
+KEYWDS    NULL                                                        
+EXPDTA    NULL                                                        
+AUTHOR    Marvin                                                      
+REVDAT   1   14-APR-23         0                                  
+HETATM    1  C   ARO     0      -0.694   1.219  -0.000  0.00  0.00           C
+HETATM    2  C   ARO     0       0.008   2.439  -0.000  0.00  0.00           C
+HETATM    3  C   ARO     0       1.411   2.443   0.000  0.00  0.00           C
+HETATM    4  C   ARO     0       2.113   1.226   0.000  0.00  0.00           C
+HETATM    5  C   ARO     0       1.411   0.005  -0.000  0.00  0.00           C
+HETATM    6  C   ARO     0      -0.007  -0.022  -0.000  0.00  0.00           C
+HETATM    7  C   ARO     0      -0.727  -1.248  -0.000  0.00  0.00           C
+HETATM    8  O   ARO     0      -0.151  -2.361   0.000  0.00  0.00           O
+HETATM    9  O   ARO     0      -2.081  -1.268   0.000  0.00  0.00           O
+HETATM   10  H   ARO     0      -1.715   1.254  -0.000  0.00  0.00           H
+HETATM   11  H   ARO     0      -0.507   3.323   0.000  0.00  0.00           H
+HETATM   12  H   ARO     0       1.920   3.328   0.000  0.00  0.00           H
+HETATM   13  H   ARO     0       3.136   1.227   0.000  0.00  0.00           H
+HETATM   14  H   ARO     0       1.953  -0.863  -0.000  0.00  0.00           H
+HETATM   15  H   ARO     0      -2.566  -2.120   0.000  0.00  0.00           H
+MASTER        0    0    0    0    0    0    0    0   15    0    0    0
+END

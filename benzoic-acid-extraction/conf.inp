@@ -1,0 +1,25 @@
+tolerance 2.0
+filetype pdb
+output conf.pdb
+
+# box size = 80*80*180
+
+structure iso-C24.pdb
+  number 400
+  inside box 0 0 50 80 80 130
+end structure
+
+structure benzoic_acid.pdb
+  number 50
+  inside box 0 0 60 80 80 120
+end structure
+
+structure ethanol.pdb
+  number 3000
+  inside box 0 0 0 80 80 50
+end structure
+
+structure ethanol.pdb
+  number 3000
+  inside box 0 0 130 80 80 180
+end structure

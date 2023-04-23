@@ -1,0 +1,12 @@
+#include "/home/crema/gromacs/top/oplsaam.ff/forcefield.itp"
+#include "spce.itp"
+#include "benzoic_acid.itp"
+#include "iso-C24.itp"
+#include "ethanol.itp"
+
+[ System ]
+Extraction of Benzoic Acid
+[ Molecules ]
+isoC24 400
+ARO 50
+ETH 6000
