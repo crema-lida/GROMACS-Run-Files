@@ -1,6 +1,4 @@
 # GROMACS-Run-Files
-An archive of MD simulations using GROMACS.
-
 This repository contains run files for animations uploaded to https://space.bilibili.com/402206352/video
 
 Common Files
