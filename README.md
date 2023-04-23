@@ -12,7 +12,7 @@ Software and Online Services used in simulations
 ---
 **GROMACS** is a free and open-source software suite for high-performance molecular dynamics and output analysis.
 > https://www.gromacs.org/
-> 
+
 **Packmol** is a free software for creating an initial point for molecular dynamics simulations by packing molecules in defined regions of space.
 > https://m3g.github.io/packmol/
 
