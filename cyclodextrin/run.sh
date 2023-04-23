@@ -8,7 +8,7 @@ gmx mdrun -deffnm min
 # 在真空中进行模拟 500 ps
 gmx grompp -f nvt -o nvt -c min -maxwarn 1
 gmx mdrun -deffnm nvt
-# 继续模拟 200 ns
+# 继续模拟 20 ns
 gmx grompp -f nvt2 -o nvt -c nvt -t nvt.cpt -maxwarn 1
 gmx mdrun -deffnm nvt -cpi nvt.cpt
 # 修改轨迹文件，选择残基 XHXW（对应聚乙二醇链）居中
